@@ -12,7 +12,7 @@
 
 「學生的迷思概念」為依文本與題目預測的可能誤解，不是已蒐集的學生實測結果。教學流程為教師設計建議，可依班級調整。所有配對的推薦理由77～86字、教學建議170～195字；字數含標點。
 
-PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連結指向本專案「原始題本_24份」資料夾已存在的檔案，維持原有權限；若#page未跳轉，請依所列PDF頁碼手動定位。原作出處依題本署名列示，不補推未記載的作者、書名或年份。題文留空或編者暫名均保留標記。
+PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連結指向本專案「原始題本_24份」資料夾已存在的檔案，維持原有權限。「原始網站」連至檢測機構的試題公告或歷屆試題頁，請依題本年度、年級、科目選取，再依頁碼與題號查找；106題本若未列於現行公告，仍可使用「開啟題本」。原作出處依題本署名列示，不補推未記載的作者、書名或年份。題文留空或編者暫名均保留標記。
 
 ## 45課配對總覽
 
@@ -93,7 +93,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：109年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第10-11頁，第25-27題。
 - 題本標示原始出處：本文改寫自李鍾旻〈蚊子放大鏡〉／《地球公民》2015 年5 月，頁44-48
-- [開啟題本](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第2課〈從空中看臺灣〉 → 〈河流記得的名字——淡水河的故事〉
 
@@ -122,7 +122,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：115年縣市學習能力檢測題本六年級國語科題本.pdf
 - 定位：PDF第10-11頁，第22-24題。
 - 題本標示原始出處：作者：羅仲凱
-- [開啟題本](https://drive.google.com/file/d/13qVtoROwhBsIYIVQY1USCa2ghmt7CSu2/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/13qVtoROwhBsIYIVQY1USCa2ghmt7CSu2/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/13qVtoROwhBsIYIVQY1USCa2ghmt7CSu2/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第3課〈攀岩高手〉 → 〈從大自然找靈感——仿生科技〉
 
@@ -151,7 +151,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：115年縣市學習能力檢測題本五年級國語科題本.pdf
 - 定位：PDF第12-14頁，第28-30題。
 - 題本標示原始出處：本文改寫自〈從大自然找靈感——仿生科技〉，《未來少年》雜誌2010 年11 月／ 遠見天下文化出版
-- [開啟題本](https://drive.google.com/file/d/1piXMSHwP-l_Sjl5-Fx9hUyq4U3SP7dnV/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1piXMSHwP-l_Sjl5-Fx9hUyq4U3SP7dnV/view?usp=drivesdk#page=12)
+- [開啟題本](https://drive.google.com/file/d/1piXMSHwP-l_Sjl5-Fx9hUyq4U3SP7dnV/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第4課〈恆久的美〉 → 〈聆聽石柱間的對話〉
 
@@ -180,7 +180,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：111年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第8-9頁，第19-21題。
 - 題本標示原始出處：本文取自蔣勳《歲月靜好》/時報文化出版
-- [開啟題本](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk#page=8)
+- [開啟題本](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第5課〈它抓得住你——商標的故事〉 → 〈QR Code，你好聰明〉
 
@@ -209,7 +209,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：111年縣市學生學習能力檢測五年級國語科題本.pdf
 - 定位：PDF第12-14頁，第28-30題。
 - 題本標示原始出處：本文取自〈QR Code，你好聰明〉／《未來少年》2017 年1 月號
-- [開啟題本](https://drive.google.com/file/d/1xAu_mukle2rovoF1LCCnN-xscFi51rLd/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1xAu_mukle2rovoF1LCCnN-xscFi51rLd/view?usp=drivesdk#page=12)
+- [開啟題本](https://drive.google.com/file/d/1xAu_mukle2rovoF1LCCnN-xscFi51rLd/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第6課〈故事「動」起來〉 → 〈視覺化寫作／進擊的鼓手〔雙文本改寫題組〕〉
 
@@ -238,7 +238,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：114P_Chinese.pdf
 - 定位：PDF第10-11頁，第29-31題。
 - 題本標示原始出處：甲文改寫自〈視覺化寫作：4個電影劇本範例〉；乙文改寫自電影劇本《進擊的鼓手》。本題組未列完整出版書目。
-- [開啟題本](https://drive.google.com/file/d/1lm-GYwdd--HwzbpHNvKIImTWJxGS2N5m/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1lm-GYwdd--HwzbpHNvKIImTWJxGS2N5m/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1lm-GYwdd--HwzbpHNvKIImTWJxGS2N5m/view?usp=drivesdk)｜[原始網站](https://cap.rcpet.edu.tw/examination.html)
 
 ### 第7課〈為生命找出口〉 → 〈煮飯花〉
 
@@ -267,7 +267,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：113年縣市學生學習能力檢測五年級國語文科題本.pdf
 - 定位：PDF第6-7頁，第22-24題。
 - 題本標示原始出處：本文選自黃雅芳〈煮飯花〉／《自由時報》副刊 94.11.10
-- [開啟題本](https://drive.google.com/file/d/1zPvTJdkjfIO6deG0G7yN-zsQmkGw7XWK/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1zPvTJdkjfIO6deG0G7yN-zsQmkGw7XWK/view?usp=drivesdk#page=6)
+- [開啟題本](https://drive.google.com/file/d/1zPvTJdkjfIO6deG0G7yN-zsQmkGw7XWK/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第8課〈最勇敢的女孩〉 → 〈奉獻〉
 
@@ -296,7 +296,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：114年縣市學生學習能力檢測六年級國語文科題本.pdf
 - 定位：PDF第14-15頁，第28-30題。
 - 題本標示原始出處：作者：許俐雅
-- [開啟題本](https://drive.google.com/file/d/1PWOZFSH7hbX1C-prBW6NuiTNjGAPxz4o/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1PWOZFSH7hbX1C-prBW6NuiTNjGAPxz4o/view?usp=drivesdk#page=14)
+- [開啟題本](https://drive.google.com/file/d/1PWOZFSH7hbX1C-prBW6NuiTNjGAPxz4o/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第9課〈在挫折中成長〉 → 〈超越自我〉
 
@@ -325,7 +325,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：113年縣市學生學習能力檢測六年級國語文科題本.pdf
 - 定位：PDF第14-15頁，第28-30題。
 - 題本標示原始出處：作者：彭于論（題本署名）。
-- [開啟題本](https://drive.google.com/file/d/1IHcMWF5FhQAocewyq1X1EfpoETVRQwMe/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1IHcMWF5FhQAocewyq1X1EfpoETVRQwMe/view?usp=drivesdk#page=14)
+- [開啟題本](https://drive.google.com/file/d/1IHcMWF5FhQAocewyq1X1EfpoETVRQwMe/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第10課〈山中寄情〉 → 〈我最喜歡的季節〉
 
@@ -354,7 +354,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：110年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第8-9頁，第19-21題。
 - 題本標示原始出處：本文改寫自蔡孟諭〈我最喜歡的季節〉／中華民國91 年全國語文競賽國小學生組作文第二名
-- [開啟題本](https://drive.google.com/file/d/12Mwh81JHwvVxN1pmrF0GFQK1vl0l365A/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/12Mwh81JHwvVxN1pmrF0GFQK1vl0l365A/view?usp=drivesdk#page=8)
+- [開啟題本](https://drive.google.com/file/d/12Mwh81JHwvVxN1pmrF0GFQK1vl0l365A/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第11課〈與達駭黑熊走入山林〉 → 〈鄉野〔沙郡年記改寫選文〕〉
 
@@ -383,7 +383,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：109P_Chinese150DPI-2.pdf
 - 定位：PDF第14頁，第43-44題。
 - 題本標示原始出處：改寫自阿爾多・李奧帕德《沙郡年記・鄉野》。
-- [開啟題本](https://drive.google.com/file/d/1U9eg07OwvAB6UBTDkUGWqoc9q71ectmB/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1U9eg07OwvAB6UBTDkUGWqoc9q71ectmB/view?usp=drivesdk#page=14)
+- [開啟題本](https://drive.google.com/file/d/1U9eg07OwvAB6UBTDkUGWqoc9q71ectmB/view?usp=drivesdk)｜[原始網站](https://cap.rcpet.edu.tw/examination.html)
 
 ### 第12課〈荒島上的國王〉 → 〈窗〉
 
@@ -412,7 +412,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：115年縣市學習能力檢測題本五年級國語科題本.pdf
 - 定位：PDF第10-11頁，第25-27題。
 - 題本標示原始出處：本文改寫自美國艾倫・西格／張子樟《鷹的飛翔：世界文學名作選》／幼獅文化。
-- [開啟題本](https://drive.google.com/file/d/1piXMSHwP-l_Sjl5-Fx9hUyq4U3SP7dnV/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1piXMSHwP-l_Sjl5-Fx9hUyq4U3SP7dnV/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1piXMSHwP-l_Sjl5-Fx9hUyq4U3SP7dnV/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 
 ## 五下｜114學年度
@@ -444,7 +444,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：113年縣市學生學習能力檢測五年級國語文科題本.pdf
 - 定位：PDF第8-9頁，第25-27題。
 - 題本標示原始出處：本文改寫自吳燈山〈森林裡的廣播電台〉／九歌《103 年童話選》
-- [開啟題本](https://drive.google.com/file/d/1zPvTJdkjfIO6deG0G7yN-zsQmkGw7XWK/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1zPvTJdkjfIO6deG0G7yN-zsQmkGw7XWK/view?usp=drivesdk#page=8)
+- [開啟題本](https://drive.google.com/file/d/1zPvTJdkjfIO6deG0G7yN-zsQmkGw7XWK/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第2課〈智救養馬人〉 → 〈江乙之母向楚王申辯〔列女傳改寫選文，編者暫名〕〉
 
@@ -473,7 +473,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：113P_Chinese.pdf
 - 定位：PDF第15頁，第40-42題。
 - 題本標示原始出處：改寫自《列女傳》
-- [開啟題本](https://drive.google.com/file/d/1TfCJN0j8ljraQRKYi2hv0_17UmLw5rk2/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1TfCJN0j8ljraQRKYi2hv0_17UmLw5rk2/view?usp=drivesdk#page=15)
+- [開啟題本](https://drive.google.com/file/d/1TfCJN0j8ljraQRKYi2hv0_17UmLw5rk2/view?usp=drivesdk)｜[原始網站](https://cap.rcpet.edu.tw/examination.html)
 
 ### 第3課〈真正的「聰明」〉 → 〈複製瞌睡羊〉
 
@@ -502,7 +502,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：110年縣市學生學習能力檢測五年級國語科題本.pdf
 - 定位：PDF第12-13頁，第25-27題。
 - 題本標示原始出處：本文改寫自管家琪〈複製瞌睡羊〉／民生報社出版
-- [開啟題本](https://drive.google.com/file/d/1q5vef9N0sVjtpopZUivQ5qZUfbVV_2KZ/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1q5vef9N0sVjtpopZUivQ5qZUfbVV_2KZ/view?usp=drivesdk#page=12)
+- [開啟題本](https://drive.google.com/file/d/1q5vef9N0sVjtpopZUivQ5qZUfbVV_2KZ/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第4課〈小記者，出動！〉 → 〈海水滅火是最佳的選擇？〉
 
@@ -531,7 +531,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：114年縣市學生學習能力檢測六年級國語文科題本.pdf
 - 定位：PDF第12-13頁，第25-27題。
 - 題本標示原始出處：本文改寫自中央社新聞 華爾街日報：洛杉磯野火肆虐 引海水滅火是最後選擇
-- [開啟題本](https://drive.google.com/file/d/1PWOZFSH7hbX1C-prBW6NuiTNjGAPxz4o/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1PWOZFSH7hbX1C-prBW6NuiTNjGAPxz4o/view?usp=drivesdk#page=12)
+- [開啟題本](https://drive.google.com/file/d/1PWOZFSH7hbX1C-prBW6NuiTNjGAPxz4o/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第5課〈奇幻光芒的祕密〉 → 〈鳥人七號〉
 
@@ -560,7 +560,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：108年學力檢測國語文五年級-題本-.pdf
 - 定位：PDF第8-10頁，第18-24題。
 - 題本標示原始出處：本文節錄自侯維玲〈鳥人七號〉／國語日報出版《牧笛獎精品童話3：鳥人七號》
-- [開啟題本](https://drive.google.com/file/d/1ppC5n7XVSFCzUygHNfyCaHirfEPXYLbZ/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1ppC5n7XVSFCzUygHNfyCaHirfEPXYLbZ/view?usp=drivesdk#page=8)
+- [開啟題本](https://drive.google.com/file/d/1ppC5n7XVSFCzUygHNfyCaHirfEPXYLbZ/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第6課〈人「聲」就是戲〉 → 〈你會和機器人聊天嗎？〉
 
@@ -589,7 +589,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：111年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第12-13頁，第25-27題。
 - 題本標示原始出處：本文改寫自2018 國家發展委員會https://www.webguide.nat.gov.tw/Default.aspx
-- [開啟題本](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk#page=12)
+- [開啟題本](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第7課〈題西林壁〉 → 〈如果你有一顆檸檬〉
 
@@ -618,7 +618,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：115年縣市學習能力檢測題本五年級國語科題本.pdf
 - 定位：PDF第8-9頁，第22-24題。
 - 題本標示原始出處：作者：廖恩莉
-- [開啟題本](https://drive.google.com/file/d/1piXMSHwP-l_Sjl5-Fx9hUyq4U3SP7dnV/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1piXMSHwP-l_Sjl5-Fx9hUyq4U3SP7dnV/view?usp=drivesdk#page=8)
+- [開啟題本](https://drive.google.com/file/d/1piXMSHwP-l_Sjl5-Fx9hUyq4U3SP7dnV/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第8課〈海洋的殺手〉 → 〈我是「不塑之客」〉
 
@@ -647,7 +647,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：106學年度學力檢測國語文五年級-題本-.pdf
 - 定位：PDF第5-7頁，第11-17題。
 - 題本標示原始出處：題本未提供完整原作書目；以本題本年度、年級、頁碼、題號為可追溯出處。
-- [開啟題本](https://drive.google.com/file/d/1jiriJhoM34-2vMSNQgyoE83KAxPtKbs7/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1jiriJhoM34-2vMSNQgyoE83KAxPtKbs7/view?usp=drivesdk#page=5)
+- [開啟題本](https://drive.google.com/file/d/1jiriJhoM34-2vMSNQgyoE83KAxPtKbs7/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第9課〈你想做人魚嗎？〉 → 〈海的流動〉
 
@@ -676,7 +676,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：112年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第12-13頁，第25-27題。
 - 題本標示原始出處：本文改寫自〈海的流動〉/天下文化出版《未來少年》
-- [開啟題本](https://drive.google.com/file/d/1JXTUzlaQd85b1N4ZKqWp8GgtEOsswXb8/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1JXTUzlaQd85b1N4ZKqWp8GgtEOsswXb8/view?usp=drivesdk#page=12)
+- [開啟題本](https://drive.google.com/file/d/1JXTUzlaQd85b1N4ZKqWp8GgtEOsswXb8/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第10課〈玉米人的奇蹟〉 → 〈敲開一隻蛋〉
 
@@ -705,7 +705,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：112年縣市學生學習能力檢測五年級國語科題本.pdf
 - 定位：PDF第10-11頁，第22-24題。
 - 題本標示原始出處：本文改寫自張曼娟〈黃魚聽雷〉／皇冠出版社《敲開一隻蛋》
-- [開啟題本](https://drive.google.com/file/d/118GspMLCN2LlpSuFR2riWDY298xv6xmz/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/118GspMLCN2LlpSuFR2riWDY298xv6xmz/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/118GspMLCN2LlpSuFR2riWDY298xv6xmz/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第11課〈幸福的火苗〉 → 〈窮人〉
 
@@ -734,7 +734,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：111年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第10-11頁，第22-24題。
 - 題本標示原始出處：改寫自《列夫·托爾斯泰短篇小說精選》
-- [開啟題本](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第12課〈神農嘗百草〉 → 〈製成藥的海盤車〉
 
@@ -763,7 +763,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：109年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第8-9頁，第22-24題。
 - 題本標示原始出處：本文改寫自陳德蝸〈製成藥的海盤車〉／《地球公民》2015 年2 月，頁40-42
-- [開啟題本](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk#page=8)
+- [開啟題本](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 
 ## 六上｜115學年度
@@ -795,7 +795,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：110P_Chinese.pdf
 - 定位：PDF第13頁，第42-43題。
 - 題本標示原始出處：改寫自金庸《射鵰英雄傳》。
-- [開啟題本](https://drive.google.com/file/d/1CP4KQ1ptge9jpUgCPbHApTopeAX7iMFi/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1CP4KQ1ptge9jpUgCPbHApTopeAX7iMFi/view?usp=drivesdk#page=13)
+- [開啟題本](https://drive.google.com/file/d/1CP4KQ1ptge9jpUgCPbHApTopeAX7iMFi/view?usp=drivesdk)｜[原始網站](https://cap.rcpet.edu.tw/examination.html)
 
 ### 第2課〈朱子治家格言選〉 → 〈網紋草〉
 
@@ -824,7 +824,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：110年縣市學生學習能力檢測五年級國語科題本.pdf
 - 定位：PDF第10-11頁，第22-24題。
 - 題本標示原始出處：改寫自桂文亞〈網紋草〉／小天下出版《星星也偷笑》
-- [開啟題本](https://drive.google.com/file/d/1q5vef9N0sVjtpopZUivQ5qZUfbVV_2KZ/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1q5vef9N0sVjtpopZUivQ5qZUfbVV_2KZ/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1q5vef9N0sVjtpopZUivQ5qZUfbVV_2KZ/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第3課〈談遇見更好的自己〉 → 〈溫故知新〉
 
@@ -853,7 +853,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：112年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第14-15頁，第28-30題。
 - 題本標示原始出處：作者：柯純婷，改寫：羅秀惠、翁銘鴻
-- [開啟題本](https://drive.google.com/file/d/1JXTUzlaQd85b1N4ZKqWp8GgtEOsswXb8/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1JXTUzlaQd85b1N4ZKqWp8GgtEOsswXb8/view?usp=drivesdk#page=14)
+- [開啟題本](https://drive.google.com/file/d/1JXTUzlaQd85b1N4ZKqWp8GgtEOsswXb8/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第4課〈臺灣美食詩選〉 → 〈夏天的儀式〉
 
@@ -882,7 +882,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：109年縣市學生學習能力檢測五年級國語科題本.pdf
 - 定位：PDF第8-9頁，第19-22題。
 - 題本標示原始出處：本文改寫自謝仕淵《府城一味：時間煮字，情感入味，一起來臺南吃飯》蔚藍文化出版
-- [開啟題本](https://drive.google.com/file/d/1LkBCGTghQBRE5iZfB7zb7OBIBtL9cH2F/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1LkBCGTghQBRE5iZfB7zb7OBIBtL9cH2F/view?usp=drivesdk#page=8)
+- [開啟題本](https://drive.google.com/file/d/1LkBCGTghQBRE5iZfB7zb7OBIBtL9cH2F/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第5課〈最好的味覺禮物〉 → 〈最難忘的滋味〔題21選項標題，題文留空〕〉
 
@@ -911,7 +911,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：109年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第7頁，第19-21題。
 - 題本標示原始出處：本文改寫自楊秀嬌主編《青春，在下個街角：中學生作文集》秀威少年出版
-- [開啟題本](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk#page=7)
+- [開啟題本](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第6課〈珍珠奶茶〉 → 〈鋼筆〉
 
@@ -940,7 +940,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：113年縣市學生學習能力檢測五年級國語文科題本.pdf
 - 定位：PDF第10-11頁，第28-30題。
 - 題本標示原始出處：本文選自姚博〈鋼筆〉／菁品文化《發明與發現（二）》。
-- [開啟題本](https://drive.google.com/file/d/1zPvTJdkjfIO6deG0G7yN-zsQmkGw7XWK/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1zPvTJdkjfIO6deG0G7yN-zsQmkGw7XWK/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1zPvTJdkjfIO6deG0G7yN-zsQmkGw7XWK/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第7課〈大小剛好的鞋子〉 → 〈紅木古董商〉
 
@@ -969,7 +969,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：112年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第10-11頁，第22-24題。
 - 題本標示原始出處：本文改寫自蔡杰清〈红木柴火〉
-- [開啟題本](https://drive.google.com/file/d/1JXTUzlaQd85b1N4ZKqWp8GgtEOsswXb8/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1JXTUzlaQd85b1N4ZKqWp8GgtEOsswXb8/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1JXTUzlaQd85b1N4ZKqWp8GgtEOsswXb8/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第8課〈狐假虎威〉 → 〈寄居蟹的殼〉
 
@@ -998,7 +998,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：113年縣市學生學習能力檢測六年級國語文科題本.pdf
 - 定位：PDF第10-11頁，第22-24題。
 - 題本標示原始出處：本文改寫自阿德蝸〈寄居蟹的殼怎麼來的？〉《地球公民》
-- [開啟題本](https://drive.google.com/file/d/1IHcMWF5FhQAocewyq1X1EfpoETVRQwMe/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1IHcMWF5FhQAocewyq1X1EfpoETVRQwMe/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1IHcMWF5FhQAocewyq1X1EfpoETVRQwMe/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第9課〈空城計〉 → 〈天下第一棋〉
 
@@ -1027,7 +1027,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：109年縣市學生學習能力檢測五年級國語科題本.pdf
 - 定位：PDF第10-11頁，第23-26題。
 - 題本標示原始出處：選自陳木城《111 個最難忘的故事》遠足文化出版
-- [開啟題本](https://drive.google.com/file/d/1LkBCGTghQBRE5iZfB7zb7OBIBtL9cH2F/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1LkBCGTghQBRE5iZfB7zb7OBIBtL9cH2F/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1LkBCGTghQBRE5iZfB7zb7OBIBtL9cH2F/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第10課〈耶誕節〉 → 〈一片薄薄的冬瓜〔改寫選文〕〉
 
@@ -1056,7 +1056,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：109P_Chinese150DPI-2.pdf
 - 定位：PDF第11頁，第37-38題。
 - 題本標示原始出處：改寫自張曼娟〈一片薄薄的冬瓜〉。
-- [開啟題本](https://drive.google.com/file/d/1U9eg07OwvAB6UBTDkUGWqoc9q71ectmB/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1U9eg07OwvAB6UBTDkUGWqoc9q71ectmB/view?usp=drivesdk#page=11)
+- [開啟題本](https://drive.google.com/file/d/1U9eg07OwvAB6UBTDkUGWqoc9q71ectmB/view?usp=drivesdk)｜[原始網站](https://cap.rcpet.edu.tw/examination.html)
 
 ### 第11課〈下午茶風波〉 → 〈友誼〉
 
@@ -1085,7 +1085,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：114年縣市學生學習能力檢測五年級國語文科題本.pdf
 - 定位：PDF第8-9頁，第22-24題。
 - 題本標示原始出處：原著：美國・馬克吐溫（題本署名；未列原作完整書目）。
-- [開啟題本](https://drive.google.com/file/d/1ZW_UDGc4SZ9bv34RUNdAdF5XpokvuG-y/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1ZW_UDGc4SZ9bv34RUNdAdF5XpokvuG-y/view?usp=drivesdk#page=8)
+- [開啟題本](https://drive.google.com/file/d/1ZW_UDGc4SZ9bv34RUNdAdF5XpokvuG-y/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第12課〈橘子〉 → 〈老柚樹的祕密〉
 
@@ -1114,7 +1114,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：114年縣市學生學習能力檢測五年級國語文科題本.pdf
 - 定位：PDF第10-11頁，第25-27題。
 - 題本標示原始出處：本文改寫自劉碧玲〈老柚子樹的祕密〉／正中書局《長生不老的國王——劉碧玲童話短輯》
-- [開啟題本](https://drive.google.com/file/d/1ZW_UDGc4SZ9bv34RUNdAdF5XpokvuG-y/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1ZW_UDGc4SZ9bv34RUNdAdF5XpokvuG-y/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/1ZW_UDGc4SZ9bv34RUNdAdF5XpokvuG-y/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 
 ## 六下｜114學年度
@@ -1146,7 +1146,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：109年縣市學生學習能力檢測五年級國語科題本.pdf
 - 定位：PDF第12-13頁，第27-30題。
 - 題本標示原始出處：本文改寫自翁嘉文〈硬漢老爸──海馬〉／《科學少年》2014 年8 月，頁38~39
-- [開啟題本](https://drive.google.com/file/d/1LkBCGTghQBRE5iZfB7zb7OBIBtL9cH2F/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1LkBCGTghQBRE5iZfB7zb7OBIBtL9cH2F/view?usp=drivesdk#page=12)
+- [開啟題本](https://drive.google.com/file/d/1LkBCGTghQBRE5iZfB7zb7OBIBtL9cH2F/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第2課〈沉睡的天空之城〉 → 〈留住八卦驛站〔改寫選文〕〉
 
@@ -1175,7 +1175,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：114P_Chinese.pdf
 - 定位：PDF第9頁，第27-28題。
 - 題本標示原始出處：改寫自〈留住八卦驛站〉
-- [開啟題本](https://drive.google.com/file/d/1lm-GYwdd--HwzbpHNvKIImTWJxGS2N5m/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1lm-GYwdd--HwzbpHNvKIImTWJxGS2N5m/view?usp=drivesdk#page=9)
+- [開啟題本](https://drive.google.com/file/d/1lm-GYwdd--HwzbpHNvKIImTWJxGS2N5m/view?usp=drivesdk)｜[原始網站](https://cap.rcpet.edu.tw/examination.html)
 
 ### 第3課〈走進太陽之城〉 → 〈消波塊的種類／消波塊的功與過〔同一圖文題組〕〉
 
@@ -1204,7 +1204,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：106學年度學力檢測國語文五年級-題本-.pdf
 - 定位：PDF第11-14頁，第25-30題。
 - 題本標示原始出處：題本未提供完整原作書目；以本題本年度、年級、頁碼、題號為可追溯出處。
-- [開啟題本](https://drive.google.com/file/d/1jiriJhoM34-2vMSNQgyoE83KAxPtKbs7/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1jiriJhoM34-2vMSNQgyoE83KAxPtKbs7/view?usp=drivesdk#page=11)
+- [開啟題本](https://drive.google.com/file/d/1jiriJhoM34-2vMSNQgyoE83KAxPtKbs7/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第4課〈送友人〉 → 〈共老〔改寫選文〕〉
 
@@ -1233,7 +1233,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：111年教育會考國文科參考題本.pdf
 - 定位：PDF第13頁，第38-39題。
 - 題本標示原始出處：改寫自龍應台〈共老〉
-- [開啟題本](https://drive.google.com/file/d/1x8F6nuAMM_QvlnVMDQcIMoBQdg6SWhzx/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1x8F6nuAMM_QvlnVMDQcIMoBQdg6SWhzx/view?usp=drivesdk#page=13)
+- [開啟題本](https://drive.google.com/file/d/1x8F6nuAMM_QvlnVMDQcIMoBQdg6SWhzx/view?usp=drivesdk)｜[原始網站](https://cap.rcpet.edu.tw/examination.html)
 
 ### 第5課〈蚵鄉風情〉 → 〈守護海岸的紅樹林〉
 
@@ -1262,7 +1262,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：110年縣市學生學習能力檢測五年級國語科題本.pdf
 - 定位：PDF第14-16頁，第28-30題。
 - 題本標示原始出處：本文改寫自〈守護海岸的紅樹林〉／《少年牛頓》2014 年9 月號
-- [開啟題本](https://drive.google.com/file/d/1q5vef9N0sVjtpopZUivQ5qZUfbVV_2KZ/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1q5vef9N0sVjtpopZUivQ5qZUfbVV_2KZ/view?usp=drivesdk#page=14)
+- [開啟題本](https://drive.google.com/file/d/1q5vef9N0sVjtpopZUivQ5qZUfbVV_2KZ/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第6課〈童年．夏日．棉花糖〉 → 〈二叔與櫻花樹〔編者暫名，題本未題名〕〉
 
@@ -1291,7 +1291,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：115年縣市學習能力檢測題本六年級國語科題本.pdf
 - 定位：PDF第8-9頁，第19-21題。
 - 題本標示原始出處：本文改寫自林芳萍《林芳萍散文集2：走進弟弟山》
-- [開啟題本](https://drive.google.com/file/d/13qVtoROwhBsIYIVQY1USCa2ghmt7CSu2/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/13qVtoROwhBsIYIVQY1USCa2ghmt7CSu2/view?usp=drivesdk#page=8)
+- [開啟題本](https://drive.google.com/file/d/13qVtoROwhBsIYIVQY1USCa2ghmt7CSu2/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第7課〈我的少年夢〉 → 〈花匠的兒子〉
 
@@ -1320,7 +1320,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：110年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第10-11頁，第22-24題。
 - 題本標示原始出處：本文改寫自〈花匠的兒子〉／文房文化出版，盧珍珍主編《一起勇敢向前走》
-- [開啟題本](https://drive.google.com/file/d/12Mwh81JHwvVxN1pmrF0GFQK1vl0l365A/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/12Mwh81JHwvVxN1pmrF0GFQK1vl0l365A/view?usp=drivesdk#page=10)
+- [開啟題本](https://drive.google.com/file/d/12Mwh81JHwvVxN1pmrF0GFQK1vl0l365A/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第8課〈如何張開追夢的翅膀〉 → 〈興趣需要培養〔題30選項標題，題文留空〕〉
 
@@ -1349,7 +1349,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：111年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第14-15頁，第28-30題。
 - 題本標示原始出處：改寫自王溢嘉《少年夢工廠》/野鵝出版社
-- [開啟題本](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk#page=14)
+- [開啟題本](https://drive.google.com/file/d/1r9fJaV0Rs5pKAj4iXx8a6wkpRfqtX_Sl/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ### 第9課〈成為人生的開拓者〉 → 〈我相信，所以我贏〉
 
@@ -1378,7 +1378,7 @@ PDF頁碼從檔案第1頁起算，與頁腳印刷頁碼可能不同。題本連�
 - 題本：109年縣市學生學習能力檢測六年級國語科題本.pdf
 - 定位：PDF第12-13頁，第28-30題。
 - 題本標示原始出處：本文改寫自王溢嘉〈我相信，所以我贏〉／野鵝出版《少年夢工場》
-- [開啟題本](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk)｜[嘗試頁碼定位](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk#page=12)
+- [開啟題本](https://drive.google.com/file/d/1bmxRVDC18BW5xRinOyuMsLdIaWEdIp4d/view?usp=drivesdk)｜[原始網站](https://saaassessment.ntcu.edu.tw/ExamReleases)
 
 ## 課目與來源核對依據
 
